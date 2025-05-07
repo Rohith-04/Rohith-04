@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohith-04
-- 👀 I’m intrested in learning about embedded sustems
+- 👀 I’m intrested in learning about embedded systems
 - 🌱 I’m currently learning C and C++
 - And also intrested in learning about Linux and Embedded Linux
 
